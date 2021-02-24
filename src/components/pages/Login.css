@@ -1,0 +1,21 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 200px 20px;
+      border-radius: 200px;
+      margin-right: 250px;
+      margin-left: 250px;
+      outline: none;
+      border: none;
+      font-size: 35px;
+      margin-bottom: 200px;
+      border: 10px solid #fff;
+      background-color: black;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 420px;
+      margin-top: 25px;
+      margin-bottom: 100px;
+    }
+  }
